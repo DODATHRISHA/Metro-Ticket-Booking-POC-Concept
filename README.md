@@ -17,6 +17,3 @@ This project is a simple Metro Ticket Booking System developed using Java.
 ## Technologies Used
 - Java
 - Eclipse IDE
-
-## Author
-Doda Thrisha
