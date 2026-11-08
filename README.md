@@ -1,4 +1,4 @@
-# Metro Ticket Booking - PCO Concept
+# Metro Ticket Booking - POC Concept
 
 ## About the Project
 This project is a simple Metro Ticket Booking System developed using Java.
